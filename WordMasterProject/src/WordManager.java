@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class WordManager {
 	Scanner s =new Scanner(System.in);
@@ -46,7 +46,7 @@ public class WordManager {
 				wordCRUD.addWord();
 			}
 			else if(menu ==1) {
-				
+				wordCRUD.listAll();
 			}
 		}
 		

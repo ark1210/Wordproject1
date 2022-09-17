@@ -47,4 +47,8 @@ public String toString() {
 	return str;
 	
 }
+public String toFileString()
+{
+	return this.level + "|" + this.word + "|" + this.meaning;
+}
 }

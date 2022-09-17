@@ -182,5 +182,11 @@ public void addItem() {
 		int level =s.nextInt();
 		listAll(level);
 	}
+	public void searchWord() {
+		// TODO Auto-generated method stub
+		System.out.println("=> 원하는 단어는?  ");
+		String keyword =s.next();
+		listAll(keyword);
+	}
 
 }

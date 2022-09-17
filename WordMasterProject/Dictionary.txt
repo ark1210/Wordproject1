@@ -1,0 +1,33 @@
+1|baseball| 야구
+2|basically| 근본적으로
+1|basis| 근거, 이유
+3|impose| (새로운 법률·세금 등을) 도입[시행]하다
+2|basket| 바구니
+2|alive| 살아 있는
+1|bathroom| 욕실, 목욕탕
+1|battery| 건전지, 배터리
+1|battle| 전투
+2|airline| 항공사
+1|airport| 공항
+1|album| 앨범
+1|basic|  기본[근본]적인
+1|alcohol| 술, 알코올
+3|basketball| 농구
+2|alive| 살아 있는
+1|all| 모든
+3|alliance| 동맹, 연합
+3|allow| (무엇을 하도록) 허락하다; 용납하다
+2|girlfriend| 여자 친구, (여자) 애인
+2|give| (건네)주다
+2|given| (이미) 정해진
+1|glad| (사람이) 기쁜[반가운]
+1|hole| 구덩이
+1|holiday| (직장의) 휴가; 방학
+1|holy| (하느님·특정 종교와 관련하여) 신성한[성스러운]
+1|home| (특히 가족과 함께 사는) 집[가정]
+3|homeless| 노숙자의
+2|honest| (성품이) 정직한
+3|importance| 중요성
+2|important| 중요한
+3|impossible| 불가능한
+2|seagull| 갈매기

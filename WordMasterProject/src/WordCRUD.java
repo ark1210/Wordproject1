@@ -103,7 +103,7 @@ public void addItem() {
 		}
 		else
 			System.out.println("취소되었습니다. ");
-	
+		//println("test version 관리시스템");
 		
 		
 	}
